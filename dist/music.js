@@ -5,16 +5,16 @@ const ap = new APlayer({
     audio: [
 	
       {
-        name: 'ここから、ここから',
-        artist: '水瀬いのり / 花澤香菜 / 井口裕香 / 早見沙織',
-        url: 'http://other.web.np01.sycdn.kuwo.cn/resource/n1/26/2/3905449784.mp3',
-        cover: 'http://p2.music.126.net/DTYRx9BI0xZin4gUZXvG7Q==/109951163156090435.jpg',
+        name: 'エブリデイワールド-Ballade Arrange-Yui Solo Ver',
+        artist: '東山奈央',
+        url: 'http://other.web.ri01.sycdn.kuwo.cn/resource/n1/11/62/3287069311.mp3',
+        cover: 'https://moetu.fastmirror.org/images/2019/03/07/20160101093952_Sufjzf84cde8e9900db8c.th.png',
       },
       {
-        name: 'ウィアートル',
-        artist: 'rionos',
-        url: 'http://other.web.nq01.sycdn.kuwo.cn/resource/n2/64/51/3149294394.mp3',
-        cover: 'http://p1.music.126.net/lWvwd_TlLeHd7e7o53s-Uw==/109951163161447987.jpg',
+        name: '恋文',
+        artist: 'やなぎなぎ',
+        url: 'http://other.web.ri01.sycdn.kuwo.cn/resource/n2/52/47/1450734399.mp3',
+        cover: 'https://p2.music.126.net/0-598HM8duZCapSFRQHlPw==/2351855371837270.jpg',
       }
     ]
 });
