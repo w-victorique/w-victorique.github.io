@@ -8,7 +8,7 @@ const ap = new APlayer({
         name: 'エブリデイワールド-Ballade Arrange-Yui Solo Ver',
         artist: '東山奈央',
         url: 'http://other.web.ri01.sycdn.kuwo.cn/resource/n1/11/62/3287069311.mp3',
-        cover: 'https://moetu.fastmirror.org/images/2019/03/07/20160101093952_Sufjzf84cde8e9900db8c.th.png',
+        cover: 'https://i.loli.net/2019/04/19/5cb93c183d390.png',
       },
       {
         name: '恋文',
